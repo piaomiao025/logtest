@@ -1,0 +1,2 @@
+# logtest
+log related testing
